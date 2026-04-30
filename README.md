@@ -33,7 +33,7 @@ The original content is maintained by the course instructor. This repository is 
 ```
 .
 ├── notebooks/        # Lecture notebooks (.ipynb)
-├── data/             # (Optional) datasets used in notebooks
+├── data/             # datasets used in notebooks
 ├── requirements.txt  # Python dependencies
 └── README.md
 ```
@@ -45,7 +45,7 @@ The original content is maintained by the course instructor. This repository is 
 To work with the materials locally:
 
 ```bash
-git clone https://github.com/<your-username>/Deep-Learning-in-Finance.git
+git clone https://github.com/fstoj007/Deep-Learning-in-Finance.git
 cd ethz-mathematics-deep-learning-finance
 ```
 
