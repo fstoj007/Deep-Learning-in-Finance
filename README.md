@@ -1,10 +1,4 @@
 # Deep-Learning-in-Finance
-Repository hosting Josef Teichmann's lecture materials for the course "Mathematics for New Technologies in Finance" at ETH Zurich.
-
-# Mathematics for New Technologies in Finance
-
-### Lecture Materials (ETH Zurich)
-
 This repository contains a structured collection of lecture materials for the course
 **“Mathematics for New Technologies in Finance”**, taught by Josef Teichmann at ETH Zurich.
 
