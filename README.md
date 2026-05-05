@@ -1,6 +1,8 @@
 # Deep-Learning-in-Finance
-This repository contains a structured collection of lecture materials for the course
-**“Mathematics for New Technologies in Finance”**, taught by Josef Teichmann at ETH Zurich.
+
+This repository contains a structured collection of lecture materials for a course on deep learning in finance.
+Most of the material (lectures 1-10) are directly lifted from the materials prepared by Josef Teichmann for the
+course **“Mathematics for New Technologies in Finance”** at ETH Zurich.
 
 ---
 
@@ -26,17 +28,6 @@ All materials originate from the official course webpage:
 
 The original content is maintained by the course instructor. This repository is **not an official distribution**, but rather a curated mirror.
 
----
-
-## Repository Structure
-
-```
-.
-├── notebooks/        # Lecture notebooks (.ipynb)
-├── data/             # datasets used in notebooks
-├── requirements.txt  # Python dependencies
-└── README.md
-```
 
 ---
 
