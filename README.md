@@ -47,5 +47,6 @@ problems.
 Lecture 1-10 materials along with the corresponding supplements are by Josef Teichmann (ETH Zurich).
 They can be accessed at the following webpage.
 * https://people.math.ethz.ch/~jteichma/index.php?content=teach_mlf2026
+
 Lecture 11 materials are my own.
 
