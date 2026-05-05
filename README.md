@@ -15,6 +15,7 @@ Some of the main (highly interrelated) problems one encounters in quantitative f
 1. pricing financial instruments,
 2. hedging one's position in an investment,
 3. selecting a model describing the evolution of market assets given historical data.
+
 Exact (or even approximate) solutions to the above problems are often computationally intractable,
 especially in the high-dimensional settings we see in real-world markets. A major challenge in quantitative
 finance is therefore to develop efficient ways of (approximately) solving the aforementioned problems
